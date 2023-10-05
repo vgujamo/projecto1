@@ -1,1 +1,2 @@
-console.log(n)
+const d = 'devedor'
+console.log(n, d)
